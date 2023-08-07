@@ -5,4 +5,5 @@ pip install requests
 
 
 run : cd SMSBOMBERIRANNUMBER2023
+
 python smsbomber.py
